@@ -2,17 +2,20 @@
 
 ## Description
 
-[description]
+The blue eyes are tracking your cursor wherever you move on the page. Additionally, the background colors are changing whenever you move your mouse.
 
 ### Improvements
 
-[list improvements here]
+• Changed the initial background to tan color <br />
+• Changed the eye and ball colors to dark shades of blue <br />
+• Added JS function allowing color changes when moving cursor <br />
 
 ## How to run
-[list how to run here]
+• Run https://tylerthejester.github.io/Eye-Exercise/ in your browser
 
 ## Roadmap of future improvements
-[list roadmap here]
+• Add more layers of eyes to make them more realistic
+• Add some motion effects when moving the cursor
 
 ## License
 
