@@ -14,7 +14,7 @@ The blue eyes are tracking your cursor wherever you move on the page. Additional
 • Run https://tylerthejester.github.io/Eye-Exercise/ in your browser
 
 ## Roadmap of future improvements
-• Add more layers of eyes to make them more realistic
+• Add more layers of eyes to make them more realistic <br />
 • Add some motion effects when moving the cursor
 
 ## License
