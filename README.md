@@ -8,7 +8,7 @@ The blue eyes are tracking your cursor wherever you move on the page. Additional
 
 • Changed the initial background to tan color <br />
 • Changed the eye and ball colors to dark shades of blue <br />
-• Added JS function allowing color changes when moving cursor <br />
+• Added JS function allowing random changes in background colors when moving cursor <br />
 
 ## How to run
 • Run https://tylerthejester.github.io/Eye-Exercise/ in your browser
