@@ -1,0 +1,29 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="./styles.css">
+        <script src="./eyes.js"></script>
+    </head>
+    <body>
+        <div id="main">
+            <div class="eyes" id="eyes">
+                <div class="eye">
+                    <div class="ball"></div>
+                </div>
+                <div class="eye">
+                    <div class="ball"></div>
+                </div>
+            </div>
+        </div>
+    </body>
+    <script>
+        // Change background color when mousing mouse
+        let div1 = document.getElementById("main");
+        div1.addEventListener("mousemove", function (event) {
+           div1.style.backgroundColor = `rgb(${event.offsetX%255}, ${event.offsetY%255}, ${(event.offsetX + event.offsetY)%255})`;
+        });
+        let div2 = document.getElementById("eyes");
+        div2.addEventListener("mousemove", function (event) {
+           div2.style.backgroundColor = `rgb(${event.offsetX%255}, ${event.offsetY%255}, ${(event.offsetX + event.offsetY)%255})`;
+        });
+     </script>
+</html>
