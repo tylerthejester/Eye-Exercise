@@ -11,7 +11,8 @@ The blue eyes are tracking your cursor wherever you move on the page. Additional
 • Added JS function allowing random changes in background colors when moving cursor <br />
 
 ## How to run
-• Run https://tylerthejester.github.io/Eye-Exercise/ in your browser
+• Run https://tylerthejester.github.io/Eye-Exercise/ in your browser <br />
+• Move your cursor around the page to see the eyes tracking the cursor
 
 ## Roadmap of future improvements
 • Add more layers of eyes to make them more realistic <br />
